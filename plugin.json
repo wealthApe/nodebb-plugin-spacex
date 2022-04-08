@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-plugin-quickstart",
-	"url": "https://github.com/NodeBB/nodebb-plugin-quickstart",
+	"id": "nodebb-plugin-spacex",
+	"url": "https://github.com/wealthApe/nodebb-plugin-spacex",
 	"library": "./library.js",
 	"hooks": [
 		{

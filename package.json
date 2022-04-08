@@ -1,16 +1,16 @@
 {
-  "name": "nodebb-plugin-quickstart",
+  "name": "nodebb-plugin-spacex",
   "version": "0.4.2",
   "description": "A starter kit for quickly creating NodeBB plugins",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart"
+    "url": "https://github.com/wealthApe/nodebb-plugin-spacex"
   },
   "keywords": [
     "nodebb",
     "plugin",
-    "quickstart",
+    "spacex",
     "shell"
   ],
   "husky": {
@@ -26,12 +26,12 @@
     ]
   },
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "paulloo",
+    "email": "dongpoding@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart/issues"
+    "url": "https://github.com/wealthApe/nodebb-plugin-spacex/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
