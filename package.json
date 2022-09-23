@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-spacex",
-  "version": "0.4.2",
-  "description": "A starter kit for quickly creating NodeBB plugins",
+  "version": "0.0.1",
+  "description": "NodeBB plugins show spacex status",
   "main": "library.js",
   "repository": {
     "type": "git",
